@@ -1,2 +1,2 @@
-# Erettsegi-in-python
-Emelt szintű érettségi megoldás pythonban
+# Érettségi in python
+legjobb kod 16-os mappában van telefon.py
